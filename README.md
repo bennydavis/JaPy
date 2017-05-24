@@ -35,4 +35,6 @@ parameters.Then get the output of the Process class in form
 of String object and send the String object back to the client
 using the socket connection which was created. 
 
-
+![alt text](https://cloud.githubusercontent.com/assets/18483704/26426119/e010f32a-40f4-11e7-95d3-c3ea66a2ee77.png)
+![alt text](https://cloud.githubusercontent.com/assets/18483704/26426121/e02405fa-40f4-11e7-9c62-df789b246dd4.png)
+![alt text](https://cloud.githubusercontent.com/assets/18483704/26426120/e0123398-40f4-11e7-913a-1e6429999552.png)
