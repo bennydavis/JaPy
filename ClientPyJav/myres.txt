@@ -1,0 +1,12 @@
+Here is the standard output of the command:
+ishuma
+ishuma
+ishuma
+ishuma
+ishuma
+ishuma
+ishuma
+ishuma
+ishuma
+ishuma
+Here is the standard error of the command (if any):
